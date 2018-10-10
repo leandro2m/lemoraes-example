@@ -1,0 +1,17 @@
+{
+  "name": "example-nodejs",
+  "version": "1.0.0",
+  "description": "Lemoraes test for Docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Leandro Moraes",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10"
+  }
+}

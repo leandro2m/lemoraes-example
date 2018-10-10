@@ -1,0 +1,5 @@
+Script started on Wed Sep  5 14:38:23 2018
+command: while true; do echo Hello ARCELOR Team; sleep 1; done
+SCRIPT: while true; do echo Hello ARCELOR Team; sleep 1; done: No such file or directory
+
+Script done on Wed Sep  5 14:38:23 2018
